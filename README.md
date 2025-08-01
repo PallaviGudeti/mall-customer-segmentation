@@ -3,8 +3,11 @@
 This project applies unsupervised machine learning (K-Means Clustering) to segment customers of a mall based on their annual income and spending score to help businesses create targeted marketing strategies.
 
 **Objective:** To identify distinct customer groups based on Annual Income and Spending Score.
+
 **Techniques Used:** K-Means Clustering, Elbow Method, Data Preprocessing (Scaling), Visualization (Seaborn,Matplotlib).
+
 **Tools Used:** Python, Kaggle, Pandas, Matplotlib, Seaborn, Power BI.
+
 
 **Dataset:**
 The dataset contains information about 200 mall customers.
