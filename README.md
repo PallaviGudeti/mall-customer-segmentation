@@ -51,15 +51,15 @@ Identified 5 customer segments:
 **Business Insights:**
 
 - Segment-based marketing is more effective than general strategies.
-- 
+  
 - Target Clusters 2 and 4 for immediate sales growth.
-- 
+  
 - Focus on converting Cluster 0 with personalized offers.
-- 
+  
 - Use Cluster 1 for steady revenue and retention programs.
-- 
+
 - Minimize marketing cost on Cluster 3.
-- 
+
 
 **Exploratory Data Analysis & Clustering:**
 
