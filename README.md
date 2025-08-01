@@ -10,27 +10,27 @@ This project applies unsupervised machine learning (K-Means Clustering) to segme
 The dataset contains information about 200 mall customers.
 
 **Columns - Description :**
---> CustomerID - Unique customer ID
---> Gender - Male/Female 
---> Age - Age of the customer 
---> Annual Income (k$) - Income in thousands of dollars 
---> Spending Score (1-100) - Score assigned by the mall based on behavior                   
+- CustomerID - Unique customer ID
+- Gender - Male/Female 
+- Age - Age of the customer 
+- Annual Income (k$) - Income in thousands of dollars 
+- Spending Score (1-100) - Score assigned by the mall based on behavior                   
 
 **Key steps:**
-1) Cleaned and preprocessed the dataset.
-2) Performed EDA using histograms,scatter plots,and pair plots.
-3) Scaled features and used Elbow method to find the optimal number of clusters.
-4) Applied K-Means clustering (k=5) and assigned labels to each customer.
-5) Visualized Clusters using scatter plots.
-6) Analyzed cluster profiles and extracted business insights.
+- Cleaned and preprocessed the dataset.
+- Performed EDA using histograms,scatter plots,and pair plots.
+- Scaled features and used Elbow method to find the optimal number of clusters.
+- Applied K-Means clustering (k=5) and assigned labels to each customer.
+- Visualized Clusters using scatter plots.
+- Analyzed cluster profiles and extracted business insights.
 
 **Results:**
---> Identified 5 customer segments:
-1. High-income, high-spending (ideal for premium offers)
-2. Low-income, high-spending (price-conscious impulse buyers)
-3. High-income, low-spending (upsell potential)
-4. Low-income, low-spending (targeted with discounts)
-5. Moderate-income, average spenders (Loyal and stable customers)
+Identified 5 customer segments:
+- High-income, high-spending (ideal for premium offers)
+- Low-income, high-spending (price-conscious impulse buyers)
+- High-income, low-spending (upsell potential)
+- Low-income, low-spending (targeted with discounts)
+- Moderate-income, average spenders (Loyal and stable customers)
 
 
 **Segment Summary:**
@@ -60,7 +60,7 @@ The notebook performs the following steps:
 https://www.kaggle.com/code/gpallavi13/mall-customer-segmentation-using-k-means
 
 **Power BI Dashboard**
-The raw dataset was also visualized using Power BI to explore:
+The dataset was also visualized using Power BI to explore:
 - Gender distribution
 - Annual Income distribution by Gender
 - Spending score distribution by Gender
