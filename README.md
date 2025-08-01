@@ -73,10 +73,12 @@ The notebook performs the following steps:
 **View the full notebook:**
 https://www.kaggle.com/code/gpallavi13/mall-customer-segmentation-using-k-means
 
-**Power BI Dashboard**
+**Power BI Dashboard:**
+
 The dataset was also visualized using Power BI to explore:
 - Gender distribution
 - Annual Income distribution by Gender
 - Spending score distribution by Gender
 
-**Power BI file:** https://app.powerbi.com/links/-KJYMVljma?ctid=ff335ba2-bb68-489a-bbdd-f49ab4319838&pbi_source=linkShare
+**Power BI file:**
+https://app.powerbi.com/links/-KJYMVljma?ctid=ff335ba2-bb68-489a-bbdd-f49ab4319838&pbi_source=linkShare
